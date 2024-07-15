@@ -16,7 +16,7 @@ Let's face it—applying quickly to Upwork jobs was always a challenge. Other sc
 1. **Clone the Repository**: Grab a copy of this repository to your local machine.
 
    ``` bash
-   git clone https://github.com/haseeb-xd/upwork-rss-scheduler
+   git clone https://github.com/haseeb-xd/upwork-rss-scheduler.git
     ```
    
 2. **Set Application Properties**: Update the following properties in **application.properties**
