@@ -1,6 +1,13 @@
 # Get Upwork Jobs in Mail  🚀
 
-Welcome to my upwork job backend scheduler! Ever felt like other scheduling services were too expensive or didn't quite fit your needs? Well, fear not, because I've created this awesome backend to get upwork jobs before anyone else, get jobs in mail the minute they are posted!
+Welcome to my upwork job backend scheduler! Ever felt like other scheduling services were too expensive or didn't quite fit your needs? Well, fear not, because I've created this awesome backend to get upwork jobs before anyone else, get jobs in the mail the minute they are posted!
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c43b902-95e5-4715-bbe9-e0ddb314b945" alt="schedule">
+</p>
+
 
 ## Why Did I Create This?
 
